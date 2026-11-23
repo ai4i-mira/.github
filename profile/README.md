@@ -17,6 +17,3 @@ Our goal is to develop the algorithmic foundations and system-level methodologie
 
 ---
 
-### Featured Repositories & Templates
-
-* [`paper-template`](https://github.com/ai4i-mira/paper-template) — Standard repository template for MIRA Lab research papers and code releases.
